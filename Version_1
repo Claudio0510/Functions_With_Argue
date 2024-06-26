@@ -1,0 +1,7 @@
+#Function to save whathever is on the variable return 
+def multiplicar(numero1 , numero2):
+    return numero1 * numero2
+
+#Here are defined the values that will work with the function multiplicar
+multiply = multiplicar(5,200)
+print(multiply)
